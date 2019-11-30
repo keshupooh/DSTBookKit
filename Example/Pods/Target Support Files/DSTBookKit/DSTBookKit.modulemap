@@ -1,0 +1,6 @@
+framework module DSTBookKit {
+  umbrella header "DSTBookKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

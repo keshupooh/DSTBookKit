@@ -16,9 +16,9 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 DSTBookKit is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-```ruby
+
 pod 'DSTBookKit'
-```
+
 
 ## Author
 
@@ -27,3 +27,5 @@ keshupooh, 752342092@qq.com
 ## License
 
 DSTBookKit is available under the MIT license. See the LICENSE file for more info.
+=======
+# DSTBookKit
